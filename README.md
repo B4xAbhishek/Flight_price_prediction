@@ -1,7 +1,7 @@
 # Flight Fare Prediction: 
 
 ## Table of Content
-  * [Demo](#demo)
+<!--   * [Demo](#demo) -->
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
@@ -11,8 +11,8 @@
   * [Future scope of project](#future-scope)
 
 
-## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+<!-- ## Demo
+Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/) -->
 
 
 ## Overview
